@@ -4,7 +4,7 @@ PURPOSE OF PROJECT: My app for the AP CS P Create Performance Task. Filters a da
 
 HOW TO START THIS PROJECT: Click on the link in the repository description. Click View Code. Click Show Text to view the JavaScript code. 
 
-USER INSTRUCTIONS: Click Run and use the dropdown to randomly display a country and its information.
+USER INSTRUCTIONS: Click Run and use the dropdown to randomly display a country and its information based on population size.
 
 AUTHORS: Ethan Tang, created app using Code.org App Lab. Imported the Countries and Territories dataset, metadata available at https://studio.code.org/data_docs/countries-and-territories/.
 

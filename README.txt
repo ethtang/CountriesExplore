@@ -1,8 +1,12 @@
 # README for CountriesExplore #
 
-This is the README file for the CountriesExplore app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+PURPOSE OF PROJECT: My app for the AP CS P Create Performance Task. Filters a dataset into filtered lists and selects one point based on user input. For a detailed explanation, please see the "Create PT Written Response.docx" file.
+
+HOW TO START THIS PROJECT: Click on the link in the repository description. Click View Code. Click Show Text to view the JavaScript code. 
+
+USER INSTRUCTIONS: Click Run and use the dropdown to randomly display a country and its information.
+
+AUTHORS: Ethan Tang, created app using Code.org App Lab. Imported the Countries and Territories dataset, metadata available at https://studio.code.org/data_docs/countries-and-territories/.
 
 The files in this folder contain everything you need to run your app:
 

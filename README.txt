@@ -1,6 +1,6 @@
 # README for CountriesExplore #
 
-PURPOSE OF PROJECT: My app for the AP CS P Create Performance Task. Filters a dataset into filtered lists and selects one point based on user input. For a detailed explanation, please see the "Create PT Written Response.docx" file.
+PURPOSE OF PROJECT: My app for the AP CS P Create Performance Task. Filters a dataset into filtered lists and selects one point based on user input. For a detailed explanation, please download and view the "Create PT Written Response.docx" file.
 
 HOW TO START THIS PROJECT: Click on the link in the repository description. Click View Code. Click Show Text to view the JavaScript code. 
 
